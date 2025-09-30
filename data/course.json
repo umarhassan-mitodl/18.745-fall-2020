@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "415f2639-94c3-d0b5-c9fb-3fd8adaaa6cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6d05c691-a8a5-4d80-ad95-47ddbf2bb60d",
+    "website": "lie-groups-and-lie-algebras-i"
+  },
+  "course_title": "Lie Groups and Lie Algebras I",
+  "hide_download": true,
+  "course_description": "This course is the first half of the year-long introductory graduate sequence 18.745/18.755 on Lie groups and Lie algebras. Topics include foundations of the theory of Lie groups and Lie algebras; theorems of Engel and Lie; the universal enveloping algebra, the Poincare-Birkhoff-Witt theorem; free Lie algebras; the Campbell-Hausdorff formula; classification and structure of finite dimensional complex simple Lie algebras; their finite dimensional representations; and the Weyl character formula.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.745",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "lie-groups-and-lie-algebras-i"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Open Textbooks",
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "445b7dc1-a47e-441a-9f3b-358c8e5539b7",
+  "site_short_id": "18.745-fall-2020",
+  "site_url_path": "courses/18-745-lie-groups-and-lie-algebras-i-fall-2020"
+}
